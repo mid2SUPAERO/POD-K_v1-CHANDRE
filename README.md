@@ -1,4 +1,4 @@
-## Stage Summer 2018
+## Internship Summer 2018
 
 Author: Oriol CHANDRE-VILA.
 
@@ -10,7 +10,7 @@ Département Traitement de l'Information et Systèmes (DTIS).
 
 ### Synthesis
 
-This stage focuses the use of Proper Orthogonal Decomposition in an aeroelastic problem. Given a code "aero_struct" created by ONERA, the POD approach has been used in order to perform a offline/online processus.
+This internship focuses the use of Proper Orthogonal Decomposition in an aeroelastic problem. Given a code "aero_struct" created by ONERA, the POD approach has been used in order to perform a offline/online processus.
 Thanks to this process, super fast simulations can be achieved in online mode, but a robust expensive offline phase is needed.
 The code is implemented with Python 2.7.
 
