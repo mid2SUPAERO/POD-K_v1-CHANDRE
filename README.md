@@ -29,6 +29,7 @@ The code is implemented with Python 2.7.
 ### Conclusions
 
 (From the internship report)
+
 First of all, it can easily be proved that a real time process saves a great amount of computation time and efforts once an offline process is performed before. However, it will be interesting to be applied in a problem if only a lot of cases must be simulated. If not, it does not worth to perform such an expensive offline calculus.
 
 Secondly, the parameter that drives the accuracy of the RB is the number of samples used to create the RB (as it was expected). If more samples are computed, the approximation will use more modes of the problem, so the difference between the approximation and the real solution is smoother. Consequently, the number of candidates only increases the computation time. Nevertheless, using a kriging, this number has to be always higher than the number of samples.
