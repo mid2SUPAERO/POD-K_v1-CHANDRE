@@ -22,20 +22,6 @@ The code is implemented with Python 2.7.
 
 ### In this GitHub...
 
-1. Codes: all the live codes can be found inside.
+1. Files: One can find attached both the EXCEL and the images. The EXCEL file is used to campare the results between the POD and the original code.
 
-MATLAB tutorial on [PGD for Poisson Eq. 2D](http://htmlpreview.github.io/?https://github.com/mid2SUPAERO/PIR_CHANDRE_ROM/blob/master/Codes/html_Poisson2D_PGD/main.html)
-  
-    
-MATLAB tutorial on [POD for Steady Advection-Diffusion Problem](http://htmlpreview.github.io/?https://github.com/mid2SUPAERO/PIR_CHANDRE_ROM/blob/master/Codes/html_AdvDiff_POD/AdvectionDiffusion.html)
-    
-    
-MATLAB tutorial on [PGD for Steady Advection-Diffusion Problem](http://htmlpreview.github.io/?https://github.com/mid2SUPAERO/PIR_CHANDRE_ROM/blob/master/Codes/html_AdvDiff_PGD_Online/Online.html) 
-    
-    But of course before need to do the offline learning
-    
-MATLAB tutorial on [PGD for Steady Advection-Diffusion Problem](http://htmlpreview.github.io/?https://github.com/mid2SUPAERO/PIR_CHANDRE_ROM/blob/master/Codes/html_AdvDiff_PGD_Offline/Offline.html) 
-    
-2. Presentation: the support for the presentation can be found inside.
-
-3. Report: the editable and the PDF file of the written report can be found inside.
+2. Report: The document where the internship's results are explained is attached.
