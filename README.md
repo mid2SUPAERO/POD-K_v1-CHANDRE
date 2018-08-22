@@ -24,7 +24,9 @@ The code is implemented with Python 2.7.
 
 1. Files: One can find attached both the EXCEL and the images. The EXCEL file is used to campare the results between the POD and the original code.
 
-2. Report: The document where the internship's results are explained is attached.
+2. Presentation: the support for the presentation can be found inside.
+
+3. Report: The document where the internship's results are explained is attached.
 
 ### Conclusions
 
