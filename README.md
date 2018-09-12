@@ -28,6 +28,8 @@ The code is implemented with Python 2.7.
 
 3. Report: The document where the internship's results are explained is attached.
 
+(*) The code cannot be found in the GitHub because it uses ONERA confidential codes.
+
 ### Conclusions
 
 (From the internship report)
@@ -36,6 +38,6 @@ First of all, it can easily be proved that a real time process saves a great amo
 
 Secondly, the parameter that drives the accuracy of the RB is the number of samples used to create it (as it was expected). If more samples are computed, the approximation will use more modes of the problem, so the difference between the approximation and the real solution is smoother. Consequently, the number of candidates increases the computation time and adds more information to the kriging (more points to interpolate). Furthermore, because of the kriging process, they must be more candidates than samples (nCandidates > nSamples).
 
-Finally, the kriging procedure is giving an acceptable variance values, but the real solution is not localized between the limits (in the case of the displacement). This can only be explained by a lag of accuracy of the POD-RB. A source of error could be the construction of the RB. Since it is a coupled problem, the real solution added to the RB could not reduced the error to zero. For sure, the error in that point is reduced, but the coupling of the problem can produce a non-zero error indicator. In the original Greedy algorithm, this problem does not exist because the same point can be added several times.\\
+Finally, the kriging procedure is giving an acceptable variance values, but the real solution is not localized between the limits (in the case of the displacement). This can only be explained by a lag of accuracy of the POD-RB. A source of error could be the construction of the RB. Since it is a coupled problem, the real solution added to the RB could not reduced the error to zero. For sure, the error in that point is reduced, but the coupling of the problem can produce a non-zero error indicator. In the original Greedy algorithm, this problem does not exist because the same point can be added several times.
 
-In future works, the idea of working on the different source of error to achieve more accurate results should be studied by improving the creation of the reduced base and by possibly adding points to the kriging functions.\\
+In future works, the idea of working on the different source of error to achieve more accurate results should be studied by improving the creation of the reduced base and by possibly adding points to the kriging functions.
