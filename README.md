@@ -22,9 +22,11 @@ The code is implemented with Python 2.7.
 
 ### In this GitHub...
 
-1. Code: One can find all the codes needed to perform the study. Just two things to be commented:
+1. Code: One can find all the codes needed to perform the study. Just several things to be commented:
 
     - The Python version used is the 2.7
+    
+    - Two packages need to be installed: [pyDOE](https://anaconda.org/conda-forge/pydoe) and [Scikit learn](https://anaconda.org/anaconda/scikit-learn)
 
     - A mesh creator (and viewer) is used: GMSH 3.0.6, please note that it is not the lastest version available!
     
