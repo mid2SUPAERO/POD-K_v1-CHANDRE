@@ -22,13 +22,17 @@ The code is implemented with Python 2.7.
 
 ### In this GitHub...
 
-1. Files: One can find attached both the EXCEL and the images. The EXCEL file is used to campare the results between the POD and the original code.
+1. Codes: One can find all the codes needed to perform the study. Just two things to be commented:
 
-2. Presentation: the support for the presentation can be found inside.
+    - The Python version used is the 2.7
 
-3. Report: The document where the internship's results are explained is attached.
+    - A mesh creator (and viewer) is used: GMSH 3.0.6, please note that it is not the last version available!
 
-(*) The code cannot be found in the GitHub because it uses ONERA confidential codes.
+2. Files: One can find attached both the EXCEL and the images. The EXCEL file is used to campare the results between the POD and the original code.
+
+3. Presentation: the support for the presentation can be found inside.
+
+4. Report: The document where the internship's results are explained is attached.
 
 ### Conclusions
 
