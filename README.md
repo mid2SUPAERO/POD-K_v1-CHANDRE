@@ -26,7 +26,7 @@ The code is implemented with Python 2.7.
 
     - The Python version used is the 2.7
 
-    - A mesh creator (and viewer) is used: GMSH 3.0.6, please note that it is not the last version available!
+    - A mesh creator (and viewer) is used: GMSH 3.0.6, please note that it is not the lastest version available!
 
 2. Files: One can find attached both the EXCEL and the images. The EXCEL file is used to campare the results between the POD and the original code.
 
