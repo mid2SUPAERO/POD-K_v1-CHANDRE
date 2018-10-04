@@ -1,4 +1,4 @@
-## CODES OF THE STAGE
+## CODES OF THE INTERNSHIP
 
 ### Synthesis
 
