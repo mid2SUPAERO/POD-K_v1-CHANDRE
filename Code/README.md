@@ -6,7 +6,7 @@ In this section, one can find all the codes needed to perform the study. Just tw
 
 - The Python version used is the 2.7
 
-- A mesh creator (and viewer) is used: GMSH 3.0.6, please note that it is not the last version available! 
+- A mesh creator (and viewer) is used: GMSH 3.0.6, please note that it is not the lastest version available! 
 
 ### Content
 
