@@ -28,7 +28,7 @@ The code is implemented with Python 2.7.
     
     - Two packages need to be installed: [pyDOE](https://anaconda.org/conda-forge/pydoe) and [Scikit learn](https://anaconda.org/anaconda/scikit-learn)
 
-    - A mesh creator (and viewer) is used: GMSH 3.0.6, please note that it is not the lastest version available!
+    - A mesh creator (and viewer) is used: [GMSH 3.0.6](https://gitlab.onelab.info/gmsh/gmsh/tags), please note that it is not the lastest version available!
     
         - iPython tutorial on [Real time Parametrized Aeroelastic Problem](https://github.com/mid2SUPAERO/Stage_CHANDRE_POD/blob/master/Code/Tutorials/RealTime_aerostruct.ipynb)
 
