@@ -22,7 +22,7 @@ The code is implemented with Python 2.7.
 
 ### In this GitHub...
 
-1. Codes: One can find all the codes needed to perform the study. Just two things to be commented:
+1. Code: One can find all the codes needed to perform the study. Just two things to be commented:
 
     - The Python version used is the 2.7
 
