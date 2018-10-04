@@ -13,3 +13,7 @@ In this section, one can find all the codes needed to perform the study. Just tw
 1) aero_struct: Here all the codes can be found. The folder needed to run it from your PC.
 
 2) Tutorials: Here two live scripts can be found, one in version .ipynb and another HTML.
+
+### Copyright
+
+The codes have been developped in ONERA, The French Aerospace Research Laboratory.
