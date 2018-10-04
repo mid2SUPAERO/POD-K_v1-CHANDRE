@@ -30,6 +30,8 @@ The code is implemented with Python 2.7.
 
     - A mesh creator (and viewer) is used: [GMSH 3.0.6](https://gitlab.onelab.info/gmsh/gmsh/tags), please note that it is not the lastest version available!
     
+    - The two main scripts are the [Offline Phase Script](https://github.com/mid2SUPAERO/Stage_CHANDRE_POD/blob/master/Code/aero_struct/study/Offline_aerostruct.py) and the [Online Phase Script](https://github.com/mid2SUPAERO/Stage_CHANDRE_POD/blob/master/Code/aero_struct/study/Online_aerostruct.py)
+    
         - iPython tutorial on [Real time Parametrized Aeroelastic Problem](https://github.com/mid2SUPAERO/Stage_CHANDRE_POD/blob/master/Code/Tutorials/RealTime_aerostruct.ipynb)
 
 2. Files: One can find attached both the EXCEL and the images. The EXCEL file is used to campare the results between the POD and the original code.
